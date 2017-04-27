@@ -1,2 +1,2 @@
-# hello-world
+# first-game
 Just another repository
